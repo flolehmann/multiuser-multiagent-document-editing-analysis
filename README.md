@@ -4,6 +4,7 @@ This repository contains the analysis code for the paper:
 
 > **Collaborative Document Editing with Multiple Users and AI Agents**
 > [arXiv:2509.11826](https://arxiv.org/abs/2509.11826)
+> 
 > Florian Lehmann, Krystsina Shauchenka, Daniel Buschek
 
 ## Overview
@@ -40,6 +41,10 @@ Processes data from introduction survey
 ## 02_final_questionnaire
 
 Processes data from the final survey
+
+## 03_interaction_data
+
+Prepares the data for further analyses
 
 ## 03_01_agent_analysis
 
